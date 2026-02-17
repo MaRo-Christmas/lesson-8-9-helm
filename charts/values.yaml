@@ -2,7 +2,7 @@ git rm -r lesson-7/terraform.tfvars.examplereplicaCount: 2
 
 image:
   repository: "209578578085.dkr.ecr.eu-central-1.amazonaws.com/django-app"
-  tag: "unknown"
+  tag: "build-19-e2e620ef"
   pullPolicy: IfNotPresent
 
 service:
